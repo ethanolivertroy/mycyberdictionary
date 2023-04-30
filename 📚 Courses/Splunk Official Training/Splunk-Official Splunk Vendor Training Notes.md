@@ -1,7 +1,7 @@
 #splunk #SIEM 
 # Official Splunk Vendor Training Notes
 
-![[featured.jpeg]]
+![](https://i.imgur.com/w2qWt9z.jpg)
 
 ## 1. What is Splunk? Course
 - Splunk can take machine data to come to better conclusions for the business's security, product, spending, etc
