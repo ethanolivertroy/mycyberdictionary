@@ -30,5 +30,4 @@
 
 ## Free Cloud Security Tools
 - https://www.crowdstrike.com/resources/community-tools/crt-crowdstrike-reporting-tool-for-azure/
-
 - https://cloudsecdocs.com/

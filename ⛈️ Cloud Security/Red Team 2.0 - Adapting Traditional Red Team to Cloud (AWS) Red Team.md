@@ -6,4 +6,4 @@
 Slide Deck: [AWS Red Teaming - Halborn - Hack Space Con](https://github.com/ethanolivertroy/hackspacecon/blob/da0376eb863c15afd8ab35714df5f8476c2bf802/AWS%20Red%20Teaming%20-%20Halborn%20-%20Hack%20Space%20con.pptx.pdf)
 
 ## Notes:
-- 
+- Carlos Polop is the creator of https://cloud.hacktricks.xyz/
