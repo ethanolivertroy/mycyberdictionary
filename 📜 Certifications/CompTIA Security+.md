@@ -1,6 +1,11 @@
 #certifications 
 # CompTIA Security+
 
+## Passing the Security+ Exam
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9NE33fpQuw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Security+ and DoD Compliance
 
 Security+ is a widely recognized certification by the Department of Defense (DoD) and plays a significant role in DoD compliance due to its alignment with the DoD Directive 8140.01 (formerly 8570.01-M). See [[DoD 8570 or DoD 8140]]. This directive requires that all Information Assurance (IA) personnel, contractors, and military members handling information systems within the DoD must obtain industry-recognized certifications that demonstrate their competence in relevant cybersecurity roles.

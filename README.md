@@ -7,7 +7,8 @@ You can either [download this vault](https://github.com/ethanolivertroy/mycyber
 # whoami
 
 Hey, I'm E.T. I'm a cybersecurity consultant with experience in security compliance, penetration testing, and cloud security. I'm also an amateur bodybuilder and a biochemistry nerd with a passion for researching nutrition. In my free time, I love writing and long-form communication and aspire to complete works of literature like my literary heroes Charles Dickens and Thomas Wolfe. You can find out more about me here: https://ethantroy.com/
-![](https://i.imgur.com/dm6I0v0.png)
+
+![[certs.svg]]
 
 ## 🥊 What I'm Currently Working On
 
