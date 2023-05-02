@@ -6,13 +6,13 @@ You can either [download this vault](https://github.com/ethanolivertroy/mycyber
 
 # whoami
 
-I'm a cybersecurity consultant with expertise in security compliance, penetration testing, and cloud security. I'm also an amateur bodybuilder and a biochemistry nerd with a passion for researching nutrition. In my free time, I love writing and long-form communication and aspire to complete works of literature like my literary heroes Charles Dickens and Thomas Wolfe. You can find out more about me here: https://ethantroy.com/
+Hey, I'm E.T. I'm a cybersecurity consultant with experience in security compliance, penetration testing, and cloud security. I'm also an amateur bodybuilder and a biochemistry nerd with a passion for researching nutrition. In my free time, I love writing and long-form communication and aspire to complete works of literature like my literary heroes Charles Dickens and Thomas Wolfe. You can find out more about me here: https://ethantroy.com/
+![](https://i.imgur.com/dm6I0v0.png)
 
 ## 🥊 What I'm Currently Working On
 
- - [x] CISSP Exam Prep - Sitting for the exam in March!
-	 My CISSP-Prep Github: https://github.com/ethanolivertroy/cissp-examprep-2023
- - [ ] [[OSCP Prep]] 
+ - [x] [[Certified Information Systems Security Professional (CISSP)]]
+ - [ ] [[Offensive Security Certified Professional (OSCP)]] 
  - [ ] PNPT (Practical Network Penetration Tester) Certification
 	 - [x] [[Practical Ethical Hacking (PEH)]] - Course Finished but have to transfer all notes
 	 - [ ] Windows Privilege Escalation

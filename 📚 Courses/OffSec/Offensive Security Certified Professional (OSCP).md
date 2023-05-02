@@ -1,4 +1,4 @@
-# OSCP Prep
+# Offensive Security Certified Professional (OSCP)
 
 ## Hack the Box Machines
 
