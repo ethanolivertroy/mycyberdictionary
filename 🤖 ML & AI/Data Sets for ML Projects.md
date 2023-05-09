@@ -1,0 +1,3 @@
+- https://cyberdatascientist.com/datasets/
+- https://www.westpoint.edu/centers-and-research/cyber-research-center/data-sets
+- http://www.secrepo.com/

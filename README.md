@@ -1,3 +1,10 @@
+---
+description: cybersecurity notes
+image: logo.png
+---
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4CEK3BcFmpvw6uOzoshZ2A?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # mycyberdictionary.com
 
 [**mycyberdictionary.com**](https://mycyberdictionary.com) is an attempt to open-source my [**second-brain**](https://fortelabs.com/blog/basboverview/) as it relates to cybersecurity. This project started as my own personal notes & resources in [obsidian](https://obsidian.md/) that were flexibly documented in markdown and easily searchable for me. I began to share these notes with colleagues, friends, and other people I met that were either interested or had questions about these different topics. I felt like the easiest way for everyone to benefit from this and for me to continue my note-taking process in a productive manner was to turn this part of my second-brain into a [**digital garden**](https://maggieappleton.com/garden-history). Please excuse the mess as this is not a polished website or blog but a resource in constant iteration.
@@ -9,6 +16,7 @@ You can either [download this vault](https://github.com/ethanolivertroy/mycyber
 Hey, I'm E.T. I'm a cybersecurity consultant with experience in security compliance, penetration testing, and cloud security. I'm also an amateur bodybuilder and a biochemistry nerd with a passion for researching nutrition. In my free time, I love writing and long-form communication and aspire to complete works of literature like my literary heroes Charles Dickens and Thomas Wolfe. You can find out more about me here: https://ethantroy.com/
 
 ![[certs.svg]]
+<a href="https://app.hackthebox.com/profile/339226"> <img src="https://www.hackthebox.com/badge/image/339226"></a>
 
 ## 🥊 What I'm Currently Working On
 
@@ -23,6 +31,7 @@ Hey, I'm E.T. I'm a cybersecurity consultant with experience in security complia
 	 - [ ] Movement, Pivoting and Persistence
 - [ ] [[Practical Webapp Security and Testing (PWST)]]
 - [ ] [[Splunk-Official Splunk Vendor Training Notes]]
+- [ ] [[Certified Red Team Professional (CRTP)]] 
 
 ## 🥊 What I'm Working on Sooner or Later
 

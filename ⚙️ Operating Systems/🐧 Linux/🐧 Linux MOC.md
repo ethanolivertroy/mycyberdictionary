@@ -1,3 +1,10 @@
-![](https://i.imgur.com/ME3X9Ha.jpg)
+# Linux Map of Content
 
-[[Linux Change Hostname]]
+![](https://i.imgur.com/JC6iqcP.png)
+
+## Generally Useful Stuffs:
+- [[How to Change the Linux Hostname]]
+
+## Distros:
+- [[Kali Linux]]
+

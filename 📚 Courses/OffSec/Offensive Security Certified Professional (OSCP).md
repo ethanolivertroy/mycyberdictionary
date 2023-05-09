@@ -17,6 +17,9 @@ https://ad-lab.gitbook.io/building-a-windows-ad-lab/
 
 https://johnjhacking.com/blog/oscp-reborn-2023/
 
+https://pentest.tonyng.net/timo-sablowskis-oscp-note/
+
 
 ## Exploit Stuff
 - https://gitlab.com/exploit-database/
+

@@ -1,7 +1,7 @@
 ---
 title:  What C2 do I need?
 author: Red Siege CEO Tim Medin and Red Siege Principal Consultant Mike Saunders
-type: Video
+type: video
 created: Monday 1st May 2023 18:48
 Last modified: Monday 1st May 2023 18:48
 Aliases: 

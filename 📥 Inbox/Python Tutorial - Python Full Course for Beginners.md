@@ -1,7 +1,7 @@
 ---
 title:  Python Tutorial - Python Full Course for Beginners
 author: Mosh Hamedani
-type: Youtube Video
+type: video
 created: Tuesday 29th November 2022 16:09
 Last modified: Tuesday 29th November 2022 16:09
 Aliases: Programming with Mosh Python Course

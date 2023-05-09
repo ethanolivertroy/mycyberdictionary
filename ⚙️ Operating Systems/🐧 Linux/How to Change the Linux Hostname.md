@@ -12,7 +12,7 @@ categories: ["Linux"]
 
 ---
 
-# Linux Change Hostname
+# How to Change the Linux Hostname
 
   > [!abstract]  
   > Basically how to change the name of your Linux box and update it in the places you need to as to not break anything 😅.

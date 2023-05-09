@@ -1,7 +1,7 @@
 ---
 title:  Prioritizing Risk to Mitigate Attacks on Public Cloud Deployed Workloads
 author: Sandy Bird
-type:
+type: video
 created: Monday 1st May 2023 22:37
 Last modified: Monday 1st May 2023 22:37
 Aliases: 
