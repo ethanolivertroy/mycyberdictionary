@@ -9,6 +9,7 @@
 ## General Cloud Stuffs
 
 ### AWS
+- https://blog.rishabkumar.com/aws-cli-cheat-sheet
 
 #### Tools
 - https://github.com/sa7mon/S3Scanner - Scan for open S3 buckets and dump the contents
@@ -39,3 +40,4 @@
 
 ![](https://media0.giphy.com/media/AMnIfthWFu3MfqqdYs/giphy.gif)
 
+- https://cloudsecdocs.com/

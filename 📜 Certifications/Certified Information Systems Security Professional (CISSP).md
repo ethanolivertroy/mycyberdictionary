@@ -48,12 +48,14 @@ I basically followed TCM's Advice here:
 ### Let's be honest here about WHAT this is:
 - It is a multiple-choice test exam
 - It is an HR filter and will at least get your resume looked at and push you to interviews
-- It is **required** in quite a few cases now such as being a Senior FedRAMP Assessor or a [[QSA]]
+- It is **required** in quite a few cases now such as being a Senior FedRAMP Assessor or a [[QSA (Qualified Security Assessor)]]
 
 ### Address the waste of time argument everyone has about the CISSP
 - If you really want to be a cybersecurity professional, yes, you will need practical experience but you can do that *and* get the cert that increases your marketability (*yes, you don't have to choose between certs and practical experience...who would have thought*)
 - Trying to go deep on each of these areas to pass the exam would be **great** but not **required** (do that long term)
-- [[Doing What is Required Versus Doing Your Best]]
+
+![](https://twitter.com/AlexHormozi/status/1594916916216627201?s=20)
+
 - Arguing about the exam on social media does nothing for your professional development
 - Funny Meme so you can be cool with your friends and make fun of a certification: 
 ![](https://us.v-cdn.net/6030959/uploads/attachments/2/8/2/5/4/1/6506.jpg)
@@ -85,3 +87,5 @@ Everyone that has asked me about CISSP advice has mentioned they are just not fi
 - <a href="https://amzn.to/3LJfdCm">(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide & Practice Tests Bundle</a> by Sybex (Official)
 - https://study.pocketprep.com
 - https://www.boson.com/practice-exam/cissp-isc2-practice-exam
+
+# CISSP Checklist

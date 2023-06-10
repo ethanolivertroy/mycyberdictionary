@@ -4,4 +4,5 @@
 - [[Python Resources]]
 - [[Python Tutorial - Python Full Course for Beginners|Programming with Mosh Python Course]]
 - [[Python Tutorial - Python Full Course for Beginners]]
-- 
+
+- [[Python and Excel]]
